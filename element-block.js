@@ -22,10 +22,10 @@ function lucidLog(uid,value) {
 $(document).ready(function() {
 
 
-//Lucid_LucidBinding_0_23_13985799511724720042635478688
+//Lucid_LucidBinding_0_23_2743548854351620861587361367
 /*lucidcode*/
-$(/*luc!d_element*/document/*luc!d_element_end*/).bind(/*luc!d_event*/'ready'/*luc!d_event_end*/, function(event) {    
-/*luc!d_debug*/	lucidDebug('13985799511724720042635478688',event);/*luc!d_debug_end*/
+$(/*luc!d_element*/'P.#createDivs'/*luc!d_element_end*/).bind(/*luc!d_event*/'click'/*luc!d_event_end*/, function(event) {    
+/*luc!d_debug*/	lucidDebug('2743548854351620861587361367',event);/*luc!d_debug_end*/
 	/*luc!d_function*/createGreenBox(this,event)/*luc!d_function_end*/;    });
 /*lucidcode_end*/
 //EndLucid
